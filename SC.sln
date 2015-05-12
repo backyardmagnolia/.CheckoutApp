@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalTest", "Test\FunctionalTest.csproj", "{24A1EDCB-DB23-4ACC-91EB-A616FADCC523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkout", "Checkout\Checkout.csproj", "{49A8B68B-E125-4335-9EAD-1271A26A90DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutConsole", "Console\CheckoutConsole.csproj", "{A34D5292-13FC-4741-9C4C-E9B9C3EC472A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A1EDCB-DB23-4ACC-91EB-A616FADCC523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A1EDCB-DB23-4ACC-91EB-A616FADCC523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A1EDCB-DB23-4ACC-91EB-A616FADCC523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A1EDCB-DB23-4ACC-91EB-A616FADCC523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49A8B68B-E125-4335-9EAD-1271A26A90DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A8B68B-E125-4335-9EAD-1271A26A90DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A8B68B-E125-4335-9EAD-1271A26A90DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A8B68B-E125-4335-9EAD-1271A26A90DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34D5292-13FC-4741-9C4C-E9B9C3EC472A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34D5292-13FC-4741-9C4C-E9B9C3EC472A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34D5292-13FC-4741-9C4C-E9B9C3EC472A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34D5292-13FC-4741-9C4C-E9B9C3EC472A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
